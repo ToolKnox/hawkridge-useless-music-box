@@ -1,0 +1,129 @@
+{
+ "upstream": {
+  "platform": "printables",
+  "id": "1747960",
+  "url": "https://www.printables.com/model/1747960-useless-music-box",
+  "name": "Useless Music Box",
+  "author": "Dawieder",
+  "license": "CC0-1.0",
+  "published": "2026-06-08T18:12:56.058296+00:00",
+  "retrieved": "2026-10-20"
+ },
+ "firmware": {
+  "url": "https://github.com/Dawied/Useless-Music-Box",
+  "commit": "329e46acdc6e82c0c2e17a8cb48f0c2dead5ca35",
+  "license": "none (linked, not mirrored)"
+ },
+ "print_files": [
+  {
+   "path": "print-files/box.stl",
+   "bytes": 505484,
+   "sha256": "0451c7bf40411fd636fea01927bc3d2d2ed2cadce63736d55a4445d20bdc93dc",
+   "upstream_name": "box.stl",
+   "printables_file_id": "7281237",
+   "triangles": 10108
+  },
+  {
+   "path": "print-files/cable_holder.stl",
+   "bytes": 26084,
+   "sha256": "16774e536e4892aea9100a1e233945ea0d25ce1d465a700e48827de116d1495b",
+   "upstream_name": "cable holder.stl",
+   "printables_file_id": "7281240",
+   "triangles": 520
+  },
+  {
+   "path": "print-files/lid_finger.stl",
+   "bytes": 373884,
+   "sha256": "4bc22cb5a155d8d95be8338c7b885b07e33cff0a2b1f0a290cc6aac65d5c464e",
+   "upstream_name": "lid finger.stl",
+   "printables_file_id": "7281244",
+   "triangles": 7476
+  },
+  {
+   "path": "print-files/lid_fixed.stl",
+   "bytes": 103484,
+   "sha256": "2125a3dedd43b58a5a4ac1c22d04e060f0f0255290554c3dc2381efd8c058646",
+   "upstream_name": "lid fixed.stl",
+   "printables_file_id": "7281234",
+   "triangles": 2068
+  },
+  {
+   "path": "print-files/lid_hinge.stl",
+   "bytes": 120284,
+   "sha256": "b723ee52aa63cc6a675238de7eab1c5125f7dd1c0bd6a807cd10c5174e31ad9e",
+   "upstream_name": "lid hinge.stl",
+   "printables_file_id": "7281236",
+   "triangles": 2404
+  },
+  {
+   "path": "print-files/switch_finger.stl",
+   "bytes": 806184,
+   "sha256": "fbd4959bb90b1714a9b756601c59af38e63da7277de65a3ba33278e094b20fa2",
+   "upstream_name": "switch finger.stl",
+   "printables_file_id": "7281245",
+   "triangles": 16122
+  }
+ ],
+ "files": [
+  {
+   "path": "source/upstream/box.stl",
+   "bytes": 505484,
+   "sha256": "0451c7bf40411fd636fea01927bc3d2d2ed2cadce63736d55a4445d20bdc93dc",
+   "printables_file_id": "7281237"
+  },
+  {
+   "path": "source/upstream/lid fixed.stl",
+   "bytes": 103484,
+   "sha256": "2125a3dedd43b58a5a4ac1c22d04e060f0f0255290554c3dc2381efd8c058646",
+   "printables_file_id": "7281234"
+  },
+  {
+   "path": "source/upstream/lid hinge.stl",
+   "bytes": 120284,
+   "sha256": "b723ee52aa63cc6a675238de7eab1c5125f7dd1c0bd6a807cd10c5174e31ad9e",
+   "printables_file_id": "7281236"
+  },
+  {
+   "path": "source/upstream/switch finger.stl",
+   "bytes": 806184,
+   "sha256": "fbd4959bb90b1714a9b756601c59af38e63da7277de65a3ba33278e094b20fa2",
+   "printables_file_id": "7281245"
+  },
+  {
+   "path": "source/upstream/lid finger.stl",
+   "bytes": 373884,
+   "sha256": "4bc22cb5a155d8d95be8338c7b885b07e33cff0a2b1f0a290cc6aac65d5c464e",
+   "printables_file_id": "7281244"
+  },
+  {
+   "path": "source/upstream/cable holder.stl",
+   "bytes": 26084,
+   "sha256": "16774e536e4892aea9100a1e233945ea0d25ce1d465a700e48827de116d1495b",
+   "printables_file_id": "7281240"
+  },
+  {
+   "path": "source/upstream/images/01-box-end-position.jpg",
+   "bytes": 18898880,
+   "sha256": "862d7f2777af3dc35468b03284ccb6f4d85ab3d00e0f1e00b43d2294d0244cb8",
+   "printables_image_id": "6048398"
+  },
+  {
+   "path": "source/upstream/images/02-box-closed.jpg",
+   "bytes": 18890596,
+   "sha256": "42f4c5c9a679497820f4e3b9577b5880fd30812501fe0a4afb875bf00ad9d1f1",
+   "printables_image_id": "6048397"
+  },
+  {
+   "path": "source/upstream/images/03-box-open.jpg",
+   "bytes": 20381670,
+   "sha256": "cc246932cf61fb36e679bd1fa29c0b0abb2930566f4ebb1ce8ed65b41555516d",
+   "printables_image_id": "6048396"
+  },
+  {
+   "path": "source/upstream/images/04-model-top.png",
+   "bytes": 426364,
+   "sha256": "fe15b8288a0c4a241c82de6b06eacff461e95fbc2e0ef328d221f2aaf7096d11",
+   "printables_image_id": "6048897"
+  }
+ ]
+}
